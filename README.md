@@ -23,4 +23,3 @@ This repository documents my journey learning cybersecurity fundamentals, from H
 ## Learning Resources
 - TryHackMe
 - Rocketseat (for development foundation)
-- PortSwigger Web Security Academy
